@@ -1,2 +1,2 @@
 # GeoPythonCode
-Introduction to geospatial analysys using python.
+Introduction to geospatial analysis using python.
